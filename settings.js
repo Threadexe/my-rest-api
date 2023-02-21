@@ -4,7 +4,7 @@ global.creator = '𝙶𝚎𝚗𝚎𝚜𝚒𝚜 𝙲𝚘𝚖𝚖𝚞𝚗𝚒𝚝�
 global.MONGO_DB_URI = "mongodb+srv://Zonda:Zonda@zza123@cluster0.2inrxqh.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
 global.your_email = "bloodfake344@gmail.com" //email
-global.email_password = "" //application password email
+global.email_password = "0481 9227" //application password email
 global.limitCount = 10000
 global.YUOR_PORT = 8000
 global.loghandler = {
